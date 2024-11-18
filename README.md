@@ -1,4 +1,4 @@
-## Installation  
+# Installation  
 sudo apt-get install build-essential  
 sudo apt-get install freeglut3-dev  
 sudo apt-get install libglew-dev  
@@ -12,7 +12,7 @@ sudo apt-get install libsfml-dev # for BlinkyBlocks
 
 
 
-#ABC Algorithm
+#ABC Algorithm  
 ABC Center is an algorithm developed in the lab to elect quickly a leader that is placed near the center of a huge set of robots. You can have a look at the original paper here.  
 The goal of this exercise is to program a part of this algorithm, consisting in computing a diameter (BC): i.e. one of the longest shortest distance between to modules, and elect the center of this diameter as the center.  
 Write the new code that:  
