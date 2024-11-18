@@ -20,3 +20,4 @@ Let A be a robot identified in the XML description file by isA="true", and drawn
 Elect B (drawn in yellow) as the furthest module from A.  
 Elect C (drawn in blue) as the furthest module from B.  
 Elect the center of BC as the center of the set, turn it to brown.  
+![图片的替代文本]()
